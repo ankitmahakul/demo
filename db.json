@@ -13,4 +13,45 @@
   }
   ,"CM6578":{
     "Name":"Ankit","DOB":"NA"}
+  ,
+  "MemberEnrollments": 
+        {
+            "BenefitPlan": "MMP MEDICARE                                                ",
+            "PlanId": "QMXBP0821      ",
+            "EnrollEffDate": "2021-04-01T00:00:00",
+            "EnrollId": "ESR300104227   ",
+            "EnrollTermDate": "2021-04-30T00:00:00",
+            "HealthPlanId": "QR3MT0000000785",
+            "ProgramId": "PGM0000000011  ",
+            "MemberId": "7812317810               ",
+            "MemberFirstName": "IL",
+            "MemberLastName": "NO                                                          ",
+            "MemberDOB": "1988-04-20T00:00:00",
+            "MemberAddress1": "HOUSE NO 35                                                 ",
+            "MemberAddress2": "                                                            ",
+            "MemberCity": "CHICAGO RIDGE                 ",
+            "MemberState": "IL",
+            "MemberZipCode": "60415    ",
+            "MemberPhoneNumber": "               ",
+            "MemberGender": "M",
+            "CMSContractID": "H8046",
+            "CMSPlanID": "001",
+            "MBINumber": "",
+            "StateID": "IL",
+            "PrimaryStatus": "P",
+            "ProgramName": "MMP MEDICARE                                                ",
+            "Restrictions": [],
+            "SegmentType": "INT",
+            "Status": "P",
+            "PharmacyCarrierID": "",
+            "PharmacyAccountID": "",
+            "PharmacyGroupID": "",
+            "CVSMemberID": "",
+            "GracePeriodIndicator": "",
+            "APTCIndicator": "",
+            "PrimaryLanguage": "No Language",
+            "RelationshipCode": 18,
+            "EligibilityStatus": "InActive"
+        }
+
 }
